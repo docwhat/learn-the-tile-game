@@ -1,0 +1,21 @@
+.html {
+  font-family: Geneva, Tahoma, Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+
+  background-color: #eee;
+}
+
+#score {
+  width: 20em;
+  height: 20em;
+
+  background-color: lime;
+}
+
+#play-field {
+  width: 20em;
+  height: 20em;
+
+  background-color: blue;
+}
