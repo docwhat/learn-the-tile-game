@@ -1,4 +1,4 @@
-strict: true
+// strict: true
 
 /*
  * - Field of tiles.
